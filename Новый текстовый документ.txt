@@ -1,0 +1,11 @@
+iphone 5 
+.team-photos {
+            a {
+              width: 130px;
+              height: 130px;
+              img {
+                width: 130px;
+                height: 130px;
+              }
+            }
+          }
