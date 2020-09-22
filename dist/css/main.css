@@ -1163,8 +1163,6 @@ input::placeholder {
   min-height: 249px;
   max-height: 500px;
   resize: vertical;
-  -webkit-transition: all 0.2s ease-in;
-  transition: all 0.2s ease-in;
 }
 
 #contact .form-info .contact-a .contact-form textarea:hover {
